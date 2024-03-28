@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "526646609387",
+    "project_id": "medisphere-af6ee",
+    "storage_bucket": "medisphere-af6ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526646609387:android:ce3c239d17896b84b8c5ae",
+        "android_client_info": {
+          "package_name": "com.medisphereapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwuLxCNHtYEkXtn3-aFsEdMjek4XSyjIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
